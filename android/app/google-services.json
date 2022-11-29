@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "816600842707",
+    "project_id": "mindify-efb1a",
+    "storage_bucket": "mindify-efb1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816600842707:android:880b258332799218242f26",
+        "android_client_info": {
+          "package_name": "com.example.myfirstapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816600842707-r4crif199hton7gfa8fkou58t3vc5no4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTtQQfC12FB9AB-Qj5JdCYHafBGim5F8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816600842707-r4crif199hton7gfa8fkou58t3vc5no4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
