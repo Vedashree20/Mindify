@@ -25,3 +25,4 @@ In a fast moving world like today's, it is imperative to ensure you don't compro
 -  Book therapy sessions with your preferred therapist!
 -  Journal to dump your thoughts!
 
+Have a good day XO!
