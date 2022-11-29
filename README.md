@@ -17,4 +17,11 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+## What's the app about?
+
+In a fast moving world like today's, it is imperative to ensure you don't compromise on your mental health needs.This app helps you with just that.Using Mindify you can-
+
+-  Get access to some assurances at your fingertips.
+-  Book therapy sessions with your preferred therapist!
+-  Journal to dump your thoughts!
 
